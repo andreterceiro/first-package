@@ -2,7 +2,7 @@
     "name": "andreterceiro/first-package",
     "type": "library",
     "autoload": {
-        "psr-4": {
+        "psr-0": {
             "HelloWorld": "src/"
         }
     },
