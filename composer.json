@@ -1,0 +1,16 @@
+{
+    "name": "andreterceiro/first-package",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Andreterceiro\\FirstPackage\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "André de Paula Terceiro",
+            "email": "andre@terceiro.com.br"
+        }
+    ],
+    "require": {}
+}
